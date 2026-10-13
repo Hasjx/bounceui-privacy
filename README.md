@@ -4,6 +4,11 @@ This public repository hosts the App Store Privacy Policy and Support web pages 
 
 ## Published URLs
 
+### Urdu Nest
+
+- **Privacy Policy**: [Urdu Nest privacy](https://hasjx.github.io/bounceui-privacy/urdu-nest-privacy.html)
+- **Support & Feedback**: [Urdu Nest support](https://hasjx.github.io/bounceui-privacy/urdu-nest-support.html)
+
 ### Ringo
 
 - **Privacy Policy**: [https://hasjx.github.io/bounceui-privacy/ringo-privacy.html](https://hasjx.github.io/bounceui-privacy/ringo-privacy.html)
@@ -20,6 +25,9 @@ This public repository hosts the App Store Privacy Policy and Support web pages 
 - **Support & Feedback**: [https://hasjx.github.io/bounceui-privacy/support.html](https://hasjx.github.io/bounceui-privacy/support.html)
 
 ## Contents
+
+- `urdu-nest-privacy.html` — Urdu Nest native iOS privacy policy
+- `urdu-nest-support.html` — Urdu Nest support, Roman-first learning and offline progress help
 
 - `ringo-privacy.html` — Ringo Privacy Policy
 - `ringo-support.html` — Ringo Support & gameplay help
