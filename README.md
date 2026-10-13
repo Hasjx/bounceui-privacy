@@ -4,6 +4,11 @@ This public repository hosts the App Store Privacy Policy and Support web pages 
 
 ## Published URLs
 
+### Ringo
+
+- **Privacy Policy**: [https://hasjx.github.io/bounceui-privacy/ringo-privacy.html](https://hasjx.github.io/bounceui-privacy/ringo-privacy.html)
+- **Support & Feedback**: [https://hasjx.github.io/bounceui-privacy/ringo-support.html](https://hasjx.github.io/bounceui-privacy/ringo-support.html)
+
 ### HopSites
 - **Privacy Policy**: [https://hasjx.github.io/bounceui-privacy/hopsites-privacy.html](https://hasjx.github.io/bounceui-privacy/hopsites-privacy.html)
 - **Direct Alias**: [https://hasjx.github.io/bounceui-privacy/hopsites.html](https://hasjx.github.io/bounceui-privacy/hopsites.html)
@@ -15,6 +20,9 @@ This public repository hosts the App Store Privacy Policy and Support web pages 
 - **Support & Feedback**: [https://hasjx.github.io/bounceui-privacy/support.html](https://hasjx.github.io/bounceui-privacy/support.html)
 
 ## Contents
+
+- `ringo-privacy.html` — Ringo Privacy Policy
+- `ringo-support.html` — Ringo Support & gameplay help
 
 - `hopsites-privacy.html` — HopSites Privacy Policy
 - `hopsites-support.html` — HopSites Support & FAQ page
