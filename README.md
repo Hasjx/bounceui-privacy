@@ -4,6 +4,11 @@ This public repository hosts the App Store Privacy Policy and Support web pages 
 
 ## Published URLs
 
+### Dayfetti
+
+- **Privacy Policy**: [Dayfetti privacy](https://hasjx.github.io/bounceui-privacy/dayfetti-privacy.html)
+- **Support & Feedback**: [Dayfetti support](https://hasjx.github.io/bounceui-privacy/dayfetti-support.html)
+
 ### Urdu Nest
 
 - **Privacy Policy**: [Urdu Nest privacy](https://hasjx.github.io/bounceui-privacy/urdu-nest-privacy.html)
@@ -25,6 +30,9 @@ This public repository hosts the App Store Privacy Policy and Support web pages 
 - **Support & Feedback**: [https://hasjx.github.io/bounceui-privacy/support.html](https://hasjx.github.io/bounceui-privacy/support.html)
 
 ## Contents
+
+- `dayfetti-privacy.html` — Dayfetti local storage, photo, Calendar, reminder and purchase privacy
+- `dayfetti-support.html` — Dayfetti countdown, memory, widget, recovery and Pro help
 
 - `urdu-nest-privacy.html` — Urdu Nest native iOS privacy policy
 - `urdu-nest-support.html` — Urdu Nest support, Roman-first learning and offline progress help
